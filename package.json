@@ -1,0 +1,37 @@
+{
+  "name": "Bot_trading",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@jobinsjp/vue3-datatable": "^1.0.9",
+    "@popperjs/core": "^2.10.1",
+    "axios": "^0.21.4",
+    "b-form-group": "^1.0.2",
+    "bootstrap": "^5.1.1",
+    "bootstrap-vue": "^2.21.2",
+    "bulma": "^0.9.3",
+    "bulma-toast": "^2.4.1",
+    "core-js": "^3.17.3",
+    "vue": "^3.2.11",
+    "vue-loader": "^15.9.8",
+    "vue-my-toasts": "^2.0.1",
+    "vue-picture-input": "^2.1.6",
+    "vue-router": "^4.0.11",
+    "vue3-table-lite": "^1.0.6",
+    "vuetify": "^2.5.8",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-plugin-router": "^4.5.13",
+    "@vue/cli-plugin-vuex": "^4.5.13",
+    "@vue/cli-service": "^4.5.13",
+    "@vue/compiler-sfc": "^3.2.11",
+    "sass": "^1.41.0",
+    "sass-loader": "^8.0.2"
+  }
+}
